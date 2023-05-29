@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Clima
 //
-/
+//
 
 import UIKit
 
